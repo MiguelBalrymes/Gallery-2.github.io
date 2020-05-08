@@ -1,15 +1,15 @@
 klynt.miniPlayerData = {
-    "thumbnail": "Medias/Thumbnails/Norman_Rd_Gallery_wall.jpg.jpg",
-    "launchAppWording": "Then Launch Project",
-    "resumePlaybackWording": "Resume playback?",
     "fullscreenInfoWording": "This program will launch in fullscreen",
-    "yesWording": "Yes",
-    "title": "Norman Rd Gallery",
     "thanksForWatchingWording": "Thanks for watching!",
-    "noWording": "No",
     "analyticsKey": "",
+    "title": "Norman Rd Gallery",
+    "yesWording": "Yes",
     "redirectToMobileApp": "auto",
+    "launchAppWording": "Then Launch Project",
+    "noWording": "No",
+    "resumePlaybackWording": "Resume playback?",
     "downloadAppWording": "Download App",
     "url": "",
+    "thumbnail": "Medias/Thumbnails/Norman_Rd_Gallery_wall.jpg.jpg",
     "description": "A space for art during lockdoen"
 }
